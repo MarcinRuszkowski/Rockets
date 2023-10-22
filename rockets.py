@@ -6,3 +6,5 @@ class Rocket:
         self.height += 1
         return self.height
     
+class RocketBoard:
+    
