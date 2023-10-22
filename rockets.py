@@ -5,3 +5,4 @@ class Rocket:
     def move_up(self):
         self.height += 1
         return self.height
+    
